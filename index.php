@@ -70,7 +70,7 @@ session_start();
         <?php else: ?>
             <span style="border-left: 2px solid #ccc; margin: 0 10px; height: 20px;"></span>
             <a href="login.php">LOGIN</a>
-            <a href="../registro.php" style="background:black; color:white; padding:5px 10px;">REGISTRO</a>
+            <a href="registro.php" style="background:black; color:white; padding:5px 10px;">REGISTRO</a>
         <?php endif; ?>
     </div>
 
@@ -182,3 +182,4 @@ session_start();
 </body>
 
 </html>
+
